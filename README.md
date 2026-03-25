@@ -1,6 +1,6 @@
-# 👋 Hello Floks, I'm **S Mohammed Sharwan**
+#  Hello Floks, I'm **S Mohammed Sharwan**
 
-### 🎓 BE Computer Science Student • 💻 Full Stack Developer • 🚀 Turning ideas into real-world digital solutions
+### BE Computer Science Student •  Full Stack Developer •  Turning ideas into real-world digital solutions
 
 ---
 
